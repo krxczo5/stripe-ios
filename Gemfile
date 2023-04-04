@@ -11,5 +11,5 @@ gem "mime-types"
 gem "jazzy", "~> 0.14.1"
 gem "mustache", "~> 1.1.1"
 
-gem "xcode-install", "~> 2.6"
+gem "xcode-install", "~> 2.6", ">= 2.6.8"
 gem "plist"
